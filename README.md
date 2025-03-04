@@ -18,8 +18,6 @@ For every project, you can find the main.c in the folder: projectName/Core/Src/m
 
 [STM32F401RE](documents/Nucleo_Schematic.pdf) microcontroller schematic
 
-[Expansion board](documents/Hands-on_Lab_Schematics.pdf) schematic
-
 [Matlab](matlab) scripts for communicating with the board
 
 [LCD](lcd) display files
@@ -121,5 +119,5 @@ For every project, you can find the main.c in the folder: projectName/Core/Src/m
 	
 [project 3](project/lab_11_transmit): infrared transmit and receive in the same board
 
-You can find the report for the infrared communication at the end of the CheatSheet
+- You can find the report for the infrared communication at the end of the CheatSheet
 	
