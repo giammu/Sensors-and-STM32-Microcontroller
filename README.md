@@ -1,4 +1,4 @@
-# Sensor-Systems
+# Sensors-and-STM32-Microcontroller
 STM32CubeIDE projects for the 2024-25 edition of the Sensor Systems course.
 
 Polytechnic of Milan - Prof. Villa Federica, T.A. Laita Gabriele
